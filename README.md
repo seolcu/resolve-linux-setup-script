@@ -6,7 +6,7 @@ DaVinci Resolve installation solution for linux with distrobox
 
 ### 1. Install distrobox
 
-### 2. Install the .run package from their website
+### 2. Download the .run package from their website
 
 ### 3. rename the .run package
 
